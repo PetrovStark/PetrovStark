@@ -1,3 +1,3 @@
 # Welcome to my GitHub profile
-<img src="boommm.gif"/>
+<img src="rock-lee.gif"/>
 Enjoy your stay. :)
